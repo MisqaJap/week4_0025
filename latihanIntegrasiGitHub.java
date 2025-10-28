@@ -49,7 +49,7 @@ public class latihanIntegrasiGitHub {
         System.out.println("Program Studi: ");
         programStudi = myObj.nextLine();
 
-        System.out.println("Biodata");
+        System.out.println("Biodata Mahasiswa : ");
         System.out.println("Nama : " + namaUser);
         System.out.println("Kota : " + kotaUser);
         System.out.println("Provinsi : " + provinsiUser);
